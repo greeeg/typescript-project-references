@@ -1,0 +1,13 @@
+{
+  "name": "typescript-project-references",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc --noEmit",
+    "build": "tsc -b -v",
+    "clean": "tsc -b --clean"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "5.5.3"
+  }
+}
